@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DicodingEvents</string>
+    <string name="title_home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="active_events">Active Events</string>
+    <string name="event_image">Event Image</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_date">Event Date</string>
+    <string name="register_event">Register Event</string>
+    <string name="todo">TODO</string>
+    <string name="favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favoritefragment">FavoriteFragment</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="remove_from_favorites">remove</string>
+    <string name="settings">settings</string>
+    <string name="dark_mode">dark mode</string>
+    <string name="reminder_on">reminder on</string>
+</resources>
